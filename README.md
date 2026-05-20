@@ -1,5 +1,11 @@
 # 微信设备告警推送系统 (WeChat Device Alert System)
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Flask](https://img.shields.io/badge/Flask-Web%20Framework-red.svg)
+![APScheduler](https://img.shields.io/badge/APScheduler-Task%20Runner-purple.svg)
+![WeChat API](https://img.shields.io/badge/WeChat-Official%20Account-green.svg)
+![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey.svg)
+
 一个基于 Flask 和企业微信 API 构建的智能设备监控与消息推送系统。该系统能够接收来自 IoT 设备的告警数据，通过企业微信自动推送给绑定的用户，同时支持定时消息、手动推送及用户管理等功能。
 
 ## 📋 项目简介
